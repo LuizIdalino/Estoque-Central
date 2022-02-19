@@ -1,7 +1,7 @@
 # Estoque Central
  BD de um estoque 
 
-Trabalho sobre Banco de Dados que exigia:
+# Trabalho sobre Banco de Dados que exigia:
 
 1. Desenvolva o script SQL necessário para criar o banco de dados e suas tabelas no bando de dados
 
@@ -18,7 +18,7 @@ Trabalho sobre Banco de Dados que exigia:
 * Relação das lojas com a respectiva datas de saidas de produtos do estoque central.
 * Relação dos produtos com seus respectivos fornecedores.
 
-Também o caso de uso exigia: 
+# o caso de uso exigia: 
 1. O Sistema deve ter a capacidade de armazenar os produtos contidos no estoque, para que esses possam ser controlados individualmente.
 
 2. Outro detalhe importante no cadastro do produto é armazenar a quantidade minima que deverá ter desse produtos no estoque.
